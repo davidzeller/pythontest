@@ -1,2 +1,2 @@
 # pythontest
-Testpython
+Testpython. My first Python Class ever!
