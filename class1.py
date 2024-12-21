@@ -9,3 +9,7 @@ def func2(i):
         print("b")
     else:
         print("c")
+
+def func3(i):
+    if i > 10:
+        print("groesser 10")

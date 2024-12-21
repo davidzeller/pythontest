@@ -5,4 +5,5 @@ n=100
 while i <= n:
     class1.func1(i)
     class1.func2(i)
+    class1.func3(i)
     i = i+1
